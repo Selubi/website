@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/selubi/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/Selubi",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:contact@selubi.tech",
+      "icon": "mail"
+    }
+  ]
+}
