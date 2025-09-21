@@ -1,21 +1,21 @@
-import Experience from "@/components/Experience";
-import LinkWithIcon from "@/components/LinkWithIcon";
-import Posts from "@/components/Posts";
-import Projects from "@/components/Projects";
+// import Experience from "@/components/Experience";
+// import LinkWithIcon from "@/components/LinkWithIcon";
+// import Posts from "@/components/Posts";
+// import Projects from "@/components/Projects";
 import Socials from "@/components/Socials";
-import SwipeCards from "@/components/SwipeCards";
+// import SwipeCards from "@/components/SwipeCards";
 import { Button } from "@/components/ui/button";
-import { getPosts } from "@/lib/posts";
+// import { getPosts } from "@/lib/posts";
 import {
-  ArrowDown,
-  ArrowDownRight,
-  ArrowRightIcon,
+  // ArrowDown,
+  // ArrowDownRight,
+  // ArrowRightIcon,
   FileDown,
 } from "lucide-react";
 import Link from "next/link";
 
 const TED_BIRTH_YEAR = 1997;
-const LIMIT = 2; // max show 2
+// const LIMIT = 2; // max show 2
 
 export default async function Home() {
   // const posts = (await getPosts())
