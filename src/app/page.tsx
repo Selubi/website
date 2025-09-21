@@ -39,7 +39,7 @@ export default async function Home() {
             </p>
 
             <p className="mt-4 max-w-sm text-balance text-sm sm:text-base">
-              Day job's main focus is automation, however my passion lies in anything IT related.
+              Day job main focus is automation, however my passion lies in anything IT related.
             </p>
 
             {/*<div className="mt-6 flex items-center gap-1">*/}
